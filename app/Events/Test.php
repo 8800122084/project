@@ -20,7 +20,7 @@ class Test implements ShouldBroadcast
      */
     public function __construct()
     {
-        //
+        echo "here";
     }
 
     /**
